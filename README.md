@@ -14,10 +14,10 @@ Edge Detection folder contains notebooks for the following topics:
 
 3- Using Canny Edge detector
 
-4- Fourier Transform for detecting High frequencies (edges) and low frequencies (smooth colours) in images
+4- Fourier Transform for detecting High frequencies (edges) and low frequencies (smooth colors) in images
 
-5- using Gauusian Blur as low frequency noise filter
+5- using Gaussian Blur as low frequency noise filter
 
-6- Detecting countours through binary images and Canny edge detector
+6- Detecting contours through binary images and Canny edge detector
 
 
